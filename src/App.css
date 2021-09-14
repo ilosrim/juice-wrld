@@ -5,7 +5,7 @@
   justify-content: center;
   align-items: center;
   background: rgb(229,239,255);
-  background: linear-gradient(180deg, rgba(229,239,255,1) 0%, rgba(2,0,36,1) 100%);
+  background: linear-gradient(180deg, rgba(229,239,255,1) 0%, rgba(0,0,0,1) 100%);
 }
 .App iframe{
   border-radius: 10px;
